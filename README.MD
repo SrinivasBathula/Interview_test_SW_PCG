@@ -1,7 +1,7 @@
 ### Quick Links:
-    - ### Javascript:
+    Javascript:
         - https://jsfiddle.net/fzjp49ay/
-    - ### Python:
+    Python:
         - https://repl.it/repls/FloralwhiteHoneydewCases#main.py
-    - ### SQL:
+    SQL:
         - http://sqlfiddle.com/#!9/c043f58/1
